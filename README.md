@@ -19,7 +19,9 @@ _ _ _
   
   Es gibt mehrere Methoden um zwei oder mehrere Betriebssystheme auf einem Gerät zu verwenden.  
   Eine Methode wäre eine Software zur Virtualisierung herunter zu laden und diese zu verwenden, die andere  
-  Methode ist das zweite Betriebssysthem nativ auf dem Gerät zu Installierren.
+  Methode ist, das zweite Betriebssysthem nativ auf dem Gerät zu Installierren.  
+  Die erste Varinte ist jedoch Fehleranfälliger als die zweite, es kann zum Beispiel zu problemen  
+  mit den USB-Ports kommen.
   
   
 
