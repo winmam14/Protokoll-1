@@ -35,4 +35,8 @@ Terminal eingeben. Somit ist es sehr einfach, unkompliziert und geht auch recht 
   
 **Befehle fürs Terminal**    
 sudo wget -O - http://www.htl-mechatronik.at/ubuntu-htl/install | sudo bash  
-apt install htl
+apt install htl  
+  
+  ### 2.Versionsverwaltung  
+  Versionsverwaltung wird gerne verwendet wenn mehrere Menschen an einem gemeinsamen Projet arbeiten, oder  
+  man einfach von überall auf der Welt auf seine Daten zugreifen möchte.
