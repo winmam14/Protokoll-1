@@ -30,3 +30,9 @@ _ _ _
   
 
 #### 1.2 Installation der HTL-Pakete  
+Um alle für den Unterricht relevanten Programme zu bekommen kann man ganz einfach folgende befehle in das  
+Terminal eingeben. Somit ist es sehr einfach, unkompliziert und geht auch recht zügig(mit guter Internetverbindung).  
+  
+**Befehle fürs Terminal**    
+sudo wget -O - http://www.htl-mechatronik.at/ubuntu-htl/install | sudo bash  
+apt install htl
